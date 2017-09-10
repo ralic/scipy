@@ -1,0 +1,2 @@
+export LDFLAGS="undefined dynamic_lookup $LDFLAGS"
+python3 setup.py install

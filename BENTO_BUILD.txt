@@ -10,7 +10,7 @@ No-frill version:
 
   * Clone Waf::
 
-        $ git clone https://code.google.com/p/waf/ 
+        $ git clone https://github.com/waf-project/waf
         $ git checkout waf-1.7.13  # waf breaks API regularly, this version works
 
   * Set the WAFDIR environment variable to the base dir of the waf repo you
