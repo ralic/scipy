@@ -4,6 +4,3 @@ url = git://github.com/cournape/Bento.git
 [submodule "waf"]
 	path = waf
 	url = https://github.com/waf-project/waf
-[submodule "Bento"]
-	path = Bento
-	url = git://github.com/cournape/Bento.git
